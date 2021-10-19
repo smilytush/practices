@@ -1,0 +1,33 @@
+div{
+    background-color: darkturquoise;
+    color: indigo;
+    text-align: center;
+    padding: 20px 0 20px 0;
+    margin: 20px;
+    border: 3px solid black;
+    width: 300px;
+    
+}
+.p1{
+    position: static;
+
+}
+.p2{
+    position: relative;
+    left: 500px;
+
+}
+.p3{
+    position: absolute;
+    top: 200px;
+}
+.p4{
+    position: fixed;
+    top: 400px;
+    left: 800px;
+}
+.p5{
+    width: 90%;
+    position: sticky;
+    top: 0%;
+}

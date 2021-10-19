@@ -1,0 +1,18 @@
+.para{
+    background-color: skyblue;
+
+
+}
+.joker{
+    height: 200px;
+    width: 10px;
+    float: right;
+    margin: 10px;
+
+}
+.para1{
+    text-align: justify;
+    padding: 10px;
+    text-indent: 300px;
+     color: blanchedalmond;
+}

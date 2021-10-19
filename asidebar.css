@@ -1,0 +1,24 @@
+aside{
+    background-color: rgb(167, 0, 0);
+    padding: 10px;
+    width: 300px;
+    height: 500px;
+    text-align: center;
+    border-radius: 20px;
+    float: right;
+
+}
+a{
+    text-decoration:none;
+    color: olivedrab;
+    padding: 10px 25px;
+    display: block;
+    font-size: 2rem;
+
+}
+a:hover{
+    background-color: rgb(83, 248, 179);
+    color: black;
+    border-radius: 10px;
+
+}
